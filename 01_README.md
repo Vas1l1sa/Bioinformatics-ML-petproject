@@ -40,10 +40,11 @@
 | Accuracy          | 0.9879518072289 |
 | Precision для 0   | 0.98            |
 | Precision для 1   | 1.00            |
-| Recall  для 1     | 1.00            |
-| Recall  для 0     | 0.97            |
-| F1-score для 1    | 1.00            |
-| F1-score для 1    | 1.00            |
+| Recall  для 0     | 1.00            |
+| Recall  для 1     | 0.97            |
+| F1-score для 0    | 0.99            |
+| F1-score для 1    | 0.99            |
+
 | F1-score          | 0.89            |
 | ROC-AUC           | 0.94            |
 
