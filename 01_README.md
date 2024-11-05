@@ -33,6 +33,8 @@
 
 3. Создана модель машинного обучения , класси
 
+[Ссылка на скачивание модели gastr_or_healthy_classification_model](gastr_or_healthy_classification_model.joblib)
+
 
 | Параметр          | Значение        |
 |-------------------|-----------------|
