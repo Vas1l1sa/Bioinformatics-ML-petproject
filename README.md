@@ -1,4 +1,4 @@
-# Bioinformatics + ML petproject
+# Bioinformatics_ML_petproject
 
 **Описание исходных данных:** 
 
